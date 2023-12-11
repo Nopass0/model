@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  overflow: hidden;
+}
+
+canvas,
+iframe,
+div.sketchfab-embed-wrapper {
+  position: absolute;
+  display: block;
+  width: 100vw;
+  height: 100vh;
+}
